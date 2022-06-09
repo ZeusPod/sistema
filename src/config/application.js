@@ -1,0 +1,5 @@
+const ApplicationConfig = [
+  {
+    path: "/",
+  },
+];
